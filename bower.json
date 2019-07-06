@@ -1,0 +1,21 @@
+{
+  "name": "grunt_example",
+  "description": "This is an example of using Grunt",
+  "main": "index.js",
+  "authors": [
+    "Linus Phan <phanlinus@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/linusphan/grunt_example",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "^1.4.0"
+  }
+}
